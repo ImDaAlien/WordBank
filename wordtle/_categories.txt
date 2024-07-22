@@ -1,0 +1,5 @@
+words4.txt, 4-letters
+words5.txt, 5-letters
+words6.txt, 6-letters
+words7.txt, 7-letters
+words8.txt, 8-letters
